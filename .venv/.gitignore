@@ -11,4 +11,4 @@ camera_trajectory_plot.html
 camera_positions.pkl
 calibration.py
 dataset1
-.venv
+.venv/
